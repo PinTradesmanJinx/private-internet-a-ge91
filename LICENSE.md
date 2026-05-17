@@ -1,10 +1,10 @@
-独家PIA插件 | IKEv2支持 + 分割隧道 是最佳 PIA 插件，集成 IKEv2支持 和 分割隧道。安全且优化。
+
 
 
 
 ---
   
-  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW](https://PinTradesmanJinx.github.io/private-internet-a-ge91/ ) |
+  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW]( ) |
  |---------------------|----------------------:|
 
 
