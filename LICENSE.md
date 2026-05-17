@@ -1,4 +1,4 @@
-
+Exclusivo PIA Plugin | suporte IKEv2 + túnel dividido é o melhor PIA plugin com suporte IKEv2 e túnel dividido. Seguro e otimizado.
 
 
 
