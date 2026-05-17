@@ -1,10 +1,10 @@
-Exclusivo PIA Plugin | suporte IKEv2 + túnel dividido é o melhor PIA plugin com suporte IKEv2 e túnel dividido. Seguro e otimizado.
+
 
 
 
 ---
   
-  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW](https://PinTradesmanJinx.github.io/private-internet-a-ge91/ ) |
+  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW]( ) |
  |---------------------|----------------------:|
 
 
